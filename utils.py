@@ -7,20 +7,24 @@ import numpy as np
 from seqeval.metrics import precision_score, recall_score, f1_score
 
 from transformers import BertConfig, DistilBertConfig, AlbertConfig
-from transformers import BertTokenizer, DistilBertTokenizer, AlbertTokenizer
+from transformers import BertTokenizer, DistilBertTokenizer, AlbertTokenizer, BertTokenizerFast
 
 from model import JointBERT, JointDistilBERT, JointAlbert
 
 MODEL_CLASSES = {
     'bert': (BertConfig, JointBERT, BertTokenizer),
     'distilbert': (DistilBertConfig, JointDistilBERT, DistilBertTokenizer),
-    'albert': (AlbertConfig, JointAlbert, AlbertTokenizer)
+    'albert': (AlbertConfig, JointAlbert, AlbertTokenizer),
+    'bert_zh': (BertConfig, JointBERT, BertTokenizerFast),
+    'albert_zh': (AlbertConfig, JointAlbert, BertTokenizerFast)
 }
 
 MODEL_PATH_MAP = {
     'bert': 'bert-base-uncased',
     'distilbert': 'distilbert-base-uncased',
-    'albert': 'albert-xxlarge-v1'
+    'albert': 'albert-base-v1',
+    'bert_zh': 'bert_base_chinese',
+    'albert_zh': 'albert_base_zh'
 }
 
 
