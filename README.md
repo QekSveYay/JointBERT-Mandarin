@@ -26,6 +26,7 @@
 | ----- | ------ | --- | ---- | ------------- | ----------- |
 | ATIS  | 4,478  | 500 | 893  | 21            | 120         |
 | Snips | 13,084 | 700 | 700  | 7             | 72          |
+| SMP   | 13,084 | 700 | 700  | 7             | 72          |
 
 - The number of labels are based on the _train_ dataset.
 - Add `UNK` for labels (For intent and slot labels which are only shown in _dev_ and _test_ dataset)
@@ -49,6 +50,11 @@ $ python3 main.py --task atis \
 $ python3 main.py --task snips \
                   --model_type bert \
                   --model_dir snips_model \
+                  --do_train --do_eval
+# For SMP
+$ python3 main.py --task smp \
+                  --model_type bert \
+                  --model_dir smp_model \
                   --do_train --do_eval
 ```
 
