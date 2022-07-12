@@ -1,6 +1,7 @@
 # JointBERT
 
 (Unofficial) Pytorch implementation of `JointBERT`: [BERT for Joint Intent Classification and Slot Filling](https://arxiv.org/abs/1902.10909)
+forked from monologg/JointBERT
 
 ## Model Architecture
 
@@ -26,7 +27,7 @@
 | ----- | ------ | --- | ---- | ------------- | ----------- |
 | ATIS  | 4,478  | 500 | 893  | 21            | 120         |
 | Snips | 13,084 | 700 | 700  | 7             | 72          |
-| SMP   | 13,084 | 700 | 700  | 7             | 72          |
+| SMP   | 4,623  | 199 | 199  | 60            | 311         |
 
 - The number of labels are based on the _train_ dataset.
 - Add `UNK` for labels (For intent and slot labels which are only shown in _dev_ and _test_ dataset)
