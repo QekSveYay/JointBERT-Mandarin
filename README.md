@@ -54,7 +54,7 @@ $ python3 main.py --task snips \
                   --do_train --do_eval
 # For SMP
 $ python3 main.py --task smp \
-                  --model_type bert \
+                  --model_type albert_zh \
                   --model_dir smp_model \
                   --do_train --do_eval
 ```
@@ -85,6 +85,7 @@ $ python3 predict.py --input_file {INPUT_FILE_PATH} --output_file {OUTPUT_FILE_P
 |           | DistilBERT + CRF | 97.65          | 95.89       | 88.24            |
 |           | ALBERT           | 97.64          | 95.78       | 88.13            |
 |           | ALBERT + CRF     | 97.42          | **96.32**   | **88.69**        |
+| **SMP**   | ALBERT           | 98.49          | 87.82       | 81.40            |
 
 ## Updates
 
