@@ -61,7 +61,7 @@ dev_shuffled_index = total_shuffled_index[train_data_num+test_data_num:train_dat
 with open(train_label_path, 'w', encoding='utf-8') as label_f, open(train_seq_in_path, 'w', encoding='utf-8') as seq_in_f, open(train_seq_out_path, 'w', encoding='utf-8') as seq_out_f:
 
     for key in train_shuffled_index:
-        seq_in = train_data[key]['text'].replace(u'\xa0', u'').replace(u'\x20', u'')
+        seq_in = train_data[key]['text'].replace(u'\xa0', u' ').replace(u'\x20', u'')
 
         current_intent_name = train_data[key]['intent']
         label_f.write(current_intent_name)
@@ -185,7 +185,7 @@ with open(test_label_path, 'w', encoding='utf-8') as label_f, open(test_seq_in_p
             else:
                 seq_out_list[indSeqIn] = 'O'
 
-        seq_in_new = "".join(seq_out_list)
+        seq_in_new = "".join(seq_in_list)
         seq_in_f.write(seq_in_new)
         seq_in_f.write('\n')
 

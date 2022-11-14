@@ -1,501 +1,501 @@
-O O O B-poetry-author I-poetry-author O O O 
-B-bus-Src I-bus-Src O B-bus-Dest I-bus-Dest O O O O 
-B-video-name I-video-name I-video-name I-video-name I-video-name 
-B-train-startLoc_area I-train-startLoc_area O B-train-endLoc_city I-train-endLoc_city O O O 
-B-video-name I-video-name I-video-name B-video-episode I-video-season I-video-season O I-video-episode I-video-episode I-video-episode 
-O O O O B-contacts-name I-contacts-name O O O O O 
-B-animalCries-name O O O O O O O 
-B-familyNames-name O O B-familyNames-querytype I-familyNames-querytype O O 
-O O O O O B-new-keyword I-new-keyword I-new-keyword O O O 
-B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O 
-B-cityOfPro-city I-cityOfPro-city O O O O O 
-B-cityOfPro-province I-cityOfPro-province I-cityOfPro-province O O O O 
+O O O O O O O B-carNumber-city I-carNumber-city O B-carNumber-rule I-carNumber-rule I-carNumber-rule I-carNumber-rule 
+O O O O O O O B-video-name I-video-name O O 
 B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O O O 
-B-health-keyword I-health-keyword O O O O 
-O O O I-stock-code O I-stock-code O I-stock-code I-stock-code O O O O O O O O O O O O 
-B-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword O O O O O O O O 
-B-match-category I-match-category O O O 
-O O O B-petrolPrice-datetime_date I-petrolPrice-datetime_date O O O O O O O O 
-B-video-name I-video-name I-video-name I-video-name 
-O O O B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O O O O O O 
-B-health-keyword I-health-keyword O 
-B-queryCapital-city I-queryCapital-city O O O O 
-O O B-music-artist I-music-artist O O 
-O O O O 
-O O B-airControl_smartHome-attr I-airControl_smartHome-attr I-airControl_smartHome-attr I-airControl_smartHome-attr 
-B-stock-name I-stock-name I-stock-name I-stock-name O O 
-O O O O O B-familyNames-orderIndex O O O 
-B-map-location_province I-map-location_province O O O 
-O O O B-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword O O O O O O 
-O O B-video-timeDescr I-video-timeDescr O O B-video-tag I-video-tag B-video-category I-video-category O 
-O O O O B-animalCries-name I-animalCries-name O O O 
-O O B-contacts-name I-contacts-name O O O 
-O O O O 
-B-cookbook-ingredient I-cookbook-ingredient I-cookbook-ingredient O O O O 
-B-weather-datetime_date B-weather-subfocus B-weather-city I-weather-city O O I-weather-subfocus O O O O O 
-O O O O O B-airControl_smartHome-attrValue I-airControl_smartHome-attrValue I-airControl_smartHome-attrValue 
-B-queryCapital-city I-queryCapital-city O O O O O O O 
-O O O B-cookbook-ingredient I-cookbook-ingredient I-cookbook-ingredient O O O O O O 
-B-cookbook-ingredient I-cookbook-ingredient I-cookbook-ingredient O O O O 
-O B-map-endLoc_poi I-map-endLoc_poi I-map-endLoc_poi I-map-endLoc_poi O O O 
-O B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O 
-O O O O O B-calendar-datetime_date I-calendar-datetime_date O O O O 
-B-epg-tvchannel I-epg-tvchannel I-epg-tvchannel O B-epg-name I-epg-name I-epg-name O O O O O O O O 
-B-queryCapital-province I-queryCapital-province O O O O B-queryCapital-city I-queryCapital-city O 
-O O O O O O O O O 
-O O B-petrolPrice-datetime_date I-petrolPrice-datetime_date O O O O O O 
-O I-dream-keyword B-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword O I-dream-keyword O O O O O 
-O O O O O B-new-category I-new-category O O 
-O O B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O 
-B-flight-startDate_date I-flight-startDate_date O B-flight-endLoc_city I-flight-endLoc_city O O O O 
+O O O O B-petrolPrice-datetime_date I-petrolPrice-datetime_date O O O O O O 
+O O O O B-website-name I-website-name O 
 O O O O O O B-epg-category I-epg-category 
-O O O O O B-new-datetime_date I-new-datetime_date B-new-city I-new-city O O O 
-O O O B-calendar-datetime_date I-calendar-datetime_date O O O O O O O 
-B-weather-city I-weather-city B-weather-datetime_date B-weather-subfocus O I-weather-subfocus O O O O O 
-B-cookbook-ingredient I-cookbook-ingredient O O O O 
-O O B-poetry-name I-poetry-name I-poetry-name O 
-O O O O B-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel B-epg-datetime_date I-epg-datetime_date I-epg-datetime_date O O B-epg-name I-epg-name I-epg-name I-epg-name I-epg-name O 
-O O O O O O O O O 
-B-flight-startDate_date I-flight-startDate_date B-flight-startLoc_city I-flight-startLoc_city O B-flight-endLoc_city I-flight-endLoc_city O O O O 
-O B-message-name I-message-name I-message-name O O O 
-O O B-home-位置 I-home-位置 O O B-home-灯种 
-O O B-cookbook-ingredient O O O O 
-O O O O O B-train-startLoc_city I-train-startLoc_city O B-train-endLoc_city I-train-endLoc_city O O O 
-O O O O O O B-familyNames-wildcardWords O O O O O 
-O O O O O O O O O O O O 
-O O B-translation-content I-translation-content I-translation-content I-translation-content 
-O B-queryCapital-city I-queryCapital-city O 
-B-stock-name I-stock-name I-stock-name I-stock-name O O 
-B-video-tag I-video-tag B-video-category I-video-category 
-B-translation-content I-translation-content I-translation-content I-translation-content O B-translation-target I-translation-target O O O 
-O O O O O B-queryCapital-province I-queryCapital-province O O O 
-O O I-cinemas-film O I-cinemas-film I-cinemas-film I-cinemas-film O O O O O O 
-O O B-familyNames-name O O O O B-familyNames-querytype I-familyNames-querytype 
-B-animalCries-name I-animalCries-name O O O O O O 
-O O O B-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword O O 
-B-map-location_city I-map-location_city I-map-location_city B-map-location_poi I-map-location_poi I-map-location_poi I-map-location_poi I-map-location_poi O O O 
 O O O O O O O O O O 
-O O O O B-dream-keyword O O O O O O O O O O 
-B-train-startLoc_city I-train-startLoc_city O B-train-endLoc_city I-train-endLoc_city O O O O 
-O O O O O O B-wordsMeaning-keyword I-wordsMeaning-keyword O O O 
-O O O O 
-O O O O B-calendar-datetime_date I-calendar-datetime_date I-calendar-datetime_date I-calendar-datetime_date I-calendar-datetime_date O O O O O 
-B-stock-name I-stock-name I-stock-name I-stock-name O O O O O O O 
-B-airControl_smartHome-attrValue I-airControl_smartHome-attrValue B-airControl_smartHome-zone I-airControl_smartHome-zone B-airControl_smartHome-room I-airControl_smartHome-room O O O B-airControl_smartHome-attr I-airControl_smartHome-attr I-airControl_smartHome-attr 
-O O O O O O B-contacts-name I-contacts-name 
-O O O B-animalCries-name O O 
-B-weather-datetime_date I-weather-datetime_date B-weather-city I-weather-city O O O B-weather-subfocus I-weather-subfocus 
-O O B-home-位置 I-home-位置 O B-home-灯种 
-O O O B-weather-subfocus I-weather-subfocus O O O 
-O O O O O O O O O 
-O O O O B-queryCapital-city I-queryCapital-city O O O O O 
-O O O O B-stroke-character O O O O O O 
-O O B-dream-keyword O O O O O O O O O O O 
-I-cinemas-film O I-cinemas-film I-cinemas-film I-cinemas-film O B-cinemas-theatre I-cinemas-theatre I-cinemas-theatre I-cinemas-theatre O O O O O O 
-B-calendar-datetime_date I-calendar-datetime_date I-calendar-datetime_date O O O O O O 
-O B-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword O O O O O O O 
-B-website-name I-website-name I-website-name I-website-name 
-O O O O O O O O O O O O 
-O O O B-music-artist I-music-artist I-music-artist O B-music-category I-music-category O O 
-B-stock-name I-stock-name I-stock-name I-stock-name O O O O O O O O 
-B-calendar-datetime_date I-calendar-datetime_date O O O O O O O 
-B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O O 
-O O O O O O O O O O O O O O 
-O O O B-poetry-dynasty O O 
-B-wordsMeaning-keyword I-wordsMeaning-keyword O O O O O 
-O O O O O O O O O O O O O 
-O O O O O O B-message-name I-message-name I-message-name 
-O O O O O O O 
-O O O B-stock-name I-stock-name I-stock-name I-stock-name O O O 
-B-stock-name I-stock-name I-stock-name I-stock-name O O O O 
-O O O O O O O O B-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword O O O O 
-O O O B-queryCapital-city I-queryCapital-city O 
-B-queryCapital-city I-queryCapital-city O O O O B-queryCapital-province I-queryCapital-province O 
-O O O O O O O B-poetry-name I-poetry-name O 
-O O B-contacts-name I-contacts-name O O O O O 
-O O B-website-name I-website-name I-website-name I-website-name I-website-name O I-website-name I-website-name I-website-name 
-O B-map-startLoc_poi I-map-startLoc_poi I-map-startLoc_poi O B-map-endLoc_city I-map-endLoc_city I-map-endLoc_city B-map-endLoc_poi I-map-endLoc_poi I-map-endLoc_poi O O O 
-O O O O O B-crossTalk-category I-crossTalk-category B-crossTalk-name I-crossTalk-name 
-O O O O B-carNumber-city I-carNumber-city I-carNumber-city O O O B-carNumber-rule I-carNumber-rule I-carNumber-rule I-carNumber-rule 
-I-translation-content I-translation-content O O B-translation-target I-translation-target O O O 
-O O B-childClassics-tags I-childClassics-tags 
-B-match-name I-match-name I-match-name I-match-name B-match-category I-match-category I-match-category I-match-category O O O O O O 
-B-home-位置 I-home-位置 O B-home-灯种 I-home-灯种 O O O 
-B-video-artist I-video-artist I-video-artist O B-video-name I-video-name I-video-name 
-B-match-name I-match-name I-match-name I-match-name O B-match-datetime_date I-match-datetime_date I-match-datetime_date I-match-datetime_date O O O O O O O O O O 
-O O O O O B-bus-Src I-bus-Src O B-bus-Dest I-bus-Dest O O O O 
-B-video-name I-video-name I-video-name O 
-B-video-name I-video-name I-video-name I-video-name 
-O O O O B-train-startLoc_city I-train-startLoc_city O B-train-endLoc_city I-train-endLoc_city B-train-category I-train-category O O O 
-O O B-airControl_smartHome-attr I-airControl_smartHome-attrValue O O O B-airControl_smartHome-attrValue I-airControl_smartHome-attrValue O 
-O O O O O O B-novel-popularity I-novel-popularity O O O 
-O O O O O B-poetry-author I-poetry-author O O O O O 
-O O B-poetry-name I-poetry-name I-poetry-name O 
-O O B-contacts-name I-contacts-name I-contacts-name O O O O 
-B-map-endLoc_poi I-map-endLoc_poi I-map-endLoc_poi O O O 
-O O B-crossTalk-actor I-crossTalk-actor I-crossTalk-actor O B-crossTalk-category I-crossTalk-category 
-B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O 
-O I-email-content O O O O B-email-name I-email-name O O O B-email-content I-email-content I-email-content O I-email-content 
-O O O O I-video-name O I-video-name I-video-name 
-B-airControl_smartHome-repeat B-airControl_smartHome-datetime_date I-airControl_smartHome-datetime_date B-airControl_smartHome-datetime_time I-airControl_smartHome-datetime_time I-airControl_smartHome-datetime_time I-airControl_smartHome-datetime_time B-airControl_smartHome-attrValue I-airControl_smartHome-attrValue B-airControl_smartHome-region I-airControl_smartHome-region B-airControl_smartHome-zone I-airControl_smartHome-zone O O 
-B-video-name I-video-name I-video-name I-video-name B-video-season I-video-season I-video-season 
-O O O O O O O O 
-O B-website-name I-website-name I-website-name O O 
-B-animalCries-name O O O O O 
-O O O O B-video-category I-video-category 
-B-weather-datetime_date I-weather-datetime_date O O O O B-weather-subfocus I-weather-subfocus O 
-O O O O O O B-website-name I-website-name I-website-name O 
-B-cookbook-ingredient I-cookbook-ingredient I-cookbook-ingredient O O O O 
-O B-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword O O O O O 
+B-cityOfPro-city I-cityOfPro-city O B-cityOfPro-province I-cityOfPro-province I-cityOfPro-province O O 
+O O O O O O O B-queryCapital-city I-queryCapital-city O O O O O 
 O O O O O O 
-O B-message-name I-message-name O O O 
-O B-queryCapital-city I-queryCapital-city O O O O O O O O O O 
-O O O O B-wordsMeaning-keyword I-wordsMeaning-keyword O O O 
-B-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel B-epg-datetime_time I-epg-datetime_time O O O O O O O 
-I-cinemas-film O I-cinemas-film I-cinemas-film I-cinemas-film O O O O O B-cinemas-theatre I-cinemas-theatre I-cinemas-theatre I-cinemas-theatre O O O 
-B-weather-datetime_date I-weather-datetime_date B-weather-datetime_time I-weather-datetime_time O O O O B-weather-subfocus 
-O O O O O O O O O 
-B-train-startLoc_city I-train-startLoc_city O B-train-endLoc_area I-train-endLoc_area O O O 
-O O B-poetry-author I-poetry-author O O O O 
-O O O O O O O O O O O O O O O O 
-O B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O 
-O O B-website-name I-website-name O 
-B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O 
-O O O O B-airControl_smartHome-attrValue I-airControl_smartHome-attrValue I-airControl_smartHome-attrValue 
-O O B-video-artist I-video-artist I-video-artist B-video-artistRole I-video-artistRole O B-video-name I-video-name I-video-name 
-O O B-health-keyword I-health-keyword I-health-keyword O O O O 
-O O B-stock-name I-stock-name O I-stock-name O O O 
-B-health-keyword I-health-keyword O O O O 
-B-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel B-epg-name I-epg-name I-epg-name 
-O O B-riddle-category I-riddle-category O O 
-O O O O O B-familyNames-orderIndex O O O O O O 
-O O O B-cityOfPro-city I-cityOfPro-city O O O O O B-cityOfPro-province I-cityOfPro-province O 
-O O O O O O B-telephone-name I-telephone-name I-telephone-name 
-O O B-airControl_smartHome-attrValue I-airControl_smartHome-attrValue B-airControl_smartHome-attr I-airControl_smartHome-attr I-airControl_smartHome-attr I-airControl_smartHome-attr 
-O O O O O B-dream-keyword I-dream-keyword O O O 
-O O O O B-telephone-name I-telephone-name I-telephone-name 
-O O O O B-telephone-name I-telephone-name I-telephone-name 
-B-video-name I-video-name I-video-name I-video-name B-video-episode I-video-episode I-video-episode 
-O O B-childClassics-name I-childClassics-name I-childClassics-name I-childClassics-name I-childClassics-name 
-O O O O O B-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword O O O O O O O O O 
-O O O O O O B-sentenceMaking-keyword I-sentenceMaking-keyword O O O O O 
-O O O O O O B-wordsMeaning-keyword I-wordsMeaning-keyword O O O 
-B-poetry-keyword I-poetry-keyword I-poetry-keyword I-poetry-keyword I-poetry-keyword I-poetry-keyword I-poetry-keyword B-poetry-queryField I-poetry-queryField I-poetry-queryField O 
-O O O O O O B-wordsMeaning-keyword I-wordsMeaning-keyword O O O 
-O O O O O O O 
-O O B-app-name I-app-name I-app-name I-app-name O O 
-O O O B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName 
-B-translation-content I-translation-content I-translation-content I-translation-content I-translation-content I-translation-content B-translation-target I-translation-target O O O O 
-O O O B-queryCapital-province I-queryCapital-province O O 
-O O O O O B-epg-name I-epg-name I-epg-name O O 
-O O B-airControl_smartHome-attr I-airControl_smartHome-attr 
-B-stock-name I-stock-name I-stock-name O O O O 
-O O B-flight-startDate_date I-flight-startDate_date B-flight-startLoc_city I-flight-startLoc_city O B-flight-endLoc_city I-flight-endLoc_city O O O 
-O O O B-bus-Src I-bus-Src I-bus-Src O B-bus-Dest I-bus-Dest I-bus-Dest O O O 
-B-telephone-name I-telephone-name I-telephone-name I-telephone-name O O O O O O O 
-O O O O O O O B-contacts-name I-contacts-name O O B-contacts-code I-contacts-code O I-contacts-code I-contacts-code I-contacts-code I-contacts-code I-contacts-code 
-B-cityOfPro-city I-cityOfPro-city O O O O O O 
-B-stroke-word I-stroke-word O O O O O O 
-O O O O O O 
-O O O B-riddle-category I-riddle-category O O O O O O 
-O O O O O O I-cinemas-film O I-cinemas-film I-cinemas-film I-cinemas-film O O O O O O O O O 
-O O O O O O O O O 
-B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O O O 
-O O O B-app-name I-app-name I-app-name O 
-B-calendar-datetime_date I-calendar-datetime_date O O O O O O 
-O O O B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O 
-O O O O O O B-poetry-author I-poetry-author I-poetry-author O O O 
-B-new-area I-new-area I-new-area B-new-datetime_date I-new-datetime_date O O O O O 
-O O O B-train-startDate_date I-train-startDate_date B-train-startLoc_city I-train-startLoc_city O O I-train-endLoc_city O O O O 
-O O O O B-train-endLoc_province I-train-endLoc_province B-train-endLoc_city I-train-endLoc_city I-train-endLoc_city O O O O O O B-train-startLoc_province I-train-startLoc_province I-train-startLoc_province B-train-startLoc_city I-train-startLoc_city I-train-startLoc_city O O 
-O O O B-lottery-datetime_date I-lottery-datetime_date I-lottery-datetime_date O O O B-lottery-name I-lottery-name I-lottery-name 
-B-carNumber-city I-carNumber-city O O O O O O O O 
-O O O O O O O O O B-carNumber-datetime_date I-carNumber-datetime_date I-carNumber-datetime_date B-carNumber-city I-carNumber-city O O O 
-O O B-music-song I-music-song 
-O O B-historyToday-datetime_date I-historyToday-datetime_date I-historyToday-datetime_date I-historyToday-datetime_date O O O O O O O O O 
-O O O B-weather-datetime_date B-weather-subfocus B-weather-city I-weather-city O O I-weather-subfocus O O 
-B-video-name I-video-name I-video-name I-video-name I-video-name B-video-category I-video-category I-video-category 
-B-map-location_province I-map-location_province I-map-location_province O B-map-location_city I-map-location_city O O O O O 
-B-train-startDate_date I-train-startDate_date O B-train-endLoc_city I-train-endLoc_city O O O 
-B-queryCapital-province I-queryCapital-province O O 
-O O B-train-startLoc_city I-train-startLoc_city O B-train-endLoc_city I-train-endLoc_city O O O O 
-O O O O B-music-category I-music-category O O O 
-B-cookbook-ingredient I-cookbook-ingredient I-cookbook-ingredient O O O O 
-B-cookbook-ingredient I-cookbook-ingredient I-cookbook-ingredient O O O O 
-B-new-datetime_date I-new-datetime_date B-new-category I-new-category O O O O O O O O 
-O O O O O B-petrolPrice-company I-petrolPrice-company I-petrolPrice-company O B-petrolPrice-datetime_date I-petrolPrice-datetime_date O O 
-B-historyToday-year I-historyToday-year I-historyToday-year I-historyToday-year O O O O O B-historyToday-datetime_date I-historyToday-datetime_date O O O O O O O 
-O O O B-crossTalk-actor I-crossTalk-actor O B-crossTalk-category I-crossTalk-category 
-B-epg-datetime_date I-epg-name B-epg-datetime_time I-epg-name I-epg-datetime_time I-epg-datetime_time O O O I-epg-name O O O O O 
-O O B-app-name I-app-name I-app-name I-app-name I-app-name 
-O O O O B-message-name I-message-name I-message-name I-message-name 
-B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O 
-B-historyToday-datetime_date I-historyToday-datetime_date I-historyToday-datetime_date I-historyToday-datetime_date O O O O O O O O O O 
-O O B-stock-name I-stock-name I-stock-name I-stock-name O O O O O 
-O O O B-carNumber-number O O O O O O O O 
-B-crossTalk-actor I-crossTalk-actor I-crossTalk-actor O B-crossTalk-category I-crossTalk-category B-crossTalk-name I-crossTalk-name I-crossTalk-name 
-I-airControl_smartHome-attrValue I-airControl_smartHome-attr O O B-airControl_smartHome-attrValue O O 
-O O O O B-dream-keyword I-dream-keyword O O O O O 
-B-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel O O O O O B-epg-name I-epg-name I-epg-name I-epg-name 
-O O O O O O O 
-B-video-timeDescr I-video-timeDescr O O O B-video-popularity I-video-popularity B-video-category I-video-category 
-B-cityOfPro-province I-cityOfPro-province I-cityOfPro-province O O O O O O O 
-B-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel O O O O 
-O O O B-music-category I-music-category O O 
-O O O O O O B-carNumber-city I-carNumber-city O O O O O O O O 
-O B-carNumber-city I-carNumber-city B-carNumber-datetime_date I-carNumber-datetime_date O O O O O O O O O O O B-carNumber-number O O O O O 
-B-stroke-word I-stroke-word O O O O O O O 
-O O O O B-new-country I-new-country O B-new-category I-new-category O O O O 
-B-video-artist I-video-artist I-video-artist I-video-artist O B-video-tag I-video-tag B-video-category I-video-category I-video-category 
-O B-telephone-name I-telephone-name O O O 
-O O O O O B-dream-keyword O O O O O O 
-B-video-name I-video-name I-video-name 
-O O O B-match-name I-match-name I-match-name I-match-name O O O O 
-O O B-telephone-name I-telephone-name O O O 
-O O O O O O 
-O O O O O O O B-familyNames-orderIndex O O O O 
-I-cinemas-film O I-cinemas-film I-cinemas-film I-cinemas-film O O O O O O O 
-O B-flight-startLoc_city I-flight-startLoc_city O B-flight-endLoc_city I-flight-endLoc_city O O O 
-B-translation-content I-translation-content I-translation-content O B-translation-target I-translation-target O O O 
-O O O B-poetry-dynasty O O O O O 
-O O O B-cookbook-dishName O O O 
-O O O O O O O 
-B-music-artist I-music-artist I-music-artist I-music-artist I-music-artist O O O O O O O O 
-O O O O O O O O O 
-O O O O O O B-riddle-category I-riddle-category O 
-O O O B-animalCries-name I-animalCries-name O O O 
-O O B-petrolPrice-datetime_date I-petrolPrice-datetime_date B-petrolPrice-city I-petrolPrice-city B-petrolPrice-company I-petrolPrice-company I-petrolPrice-company B-petrolPrice-category I-petrolPrice-category I-petrolPrice-category I-petrolPrice-category I-petrolPrice-category O O O O O 
-O O O O O O O O 
-O O O I-historyToday-year I-historyToday-datetime_date I-historyToday-datetime_date I-historyToday-year I-historyToday-datetime_date O O B-historyToday-year I-historyToday-year O O O O O O O O O O O O O O 
-B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O 
-O O O O O O O O O O O O O 
-B-home-位置 I-home-位置 I-home-位置 O B-home-灯种 I-home-灯种 I-home-灯种 O O 
-O O O O O B-message-name I-message-name I-message-name 
-O B-weightScaler-srcUnit O O O O O B-weightScaler-srcNumber B-weightScaler-destUnit 
-B-cookbook-ingredient I-cookbook-ingredient O O O 
-B-airControl_smartHome-attrValue I-airControl_smartHome-attrValue O O 
-O O O O 
-O O O O O B-map-location_poi I-map-location_poi I-map-location_poi I-map-location_poi O O 
-O O B-bus-Src I-bus-Src O B-bus-Dest I-bus-Dest O O O O O 
-B-familyNames-name O O B-familyNames-querytype I-familyNames-querytype O O O 
-B-weightScaler-srcNumber B-weightScaler-srcUnit B-weightScaler-destUnit O O O O O O O O 
-B-translation-content I-translation-content I-translation-content I-translation-content B-translation-target I-translation-target O O O 
-O O O O B-wordsMeaning-keyword I-wordsMeaning-keyword O O O 
-O O O O B-calendar-datetime_date I-calendar-datetime_date I-calendar-datetime_date O O O O O O O 
-B-carNumber-city I-carNumber-city I-carNumber-city B-carNumber-datetime_date I-carNumber-datetime_date O O O 
-O O B-home-位置 I-home-位置 O O O B-home-灯种 I-home-灯种 I-home-灯种 
-O O O O I-cinemas-film O I-cinemas-film I-cinemas-film I-cinemas-film O O O O O O O O 
-O B-bus-Src I-bus-Src O O O O O O O O O 
-B-calendar-datetime_date I-calendar-datetime_date O O O O O O O 
-B-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel O O O O O O O O O B-epg-datetime_date I-epg-datetime_date B-epg-datetime_time I-epg-datetime_time O O 
-O O O O O O O B-familyNames-orderIndex O O O O 
-O O O O O B-contacts-name I-contacts-name B-contacts-code I-contacts-code I-contacts-code I-contacts-code I-contacts-code I-contacts-code O O O I-contacts-code O 
-O O O O O O O O O O O O 
-B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O 
-O B-cookbook-ingredient I-cookbook-ingredient O O O O 
-O O O O B-message-name I-message-name O B-message-content I-message-content I-message-content I-message-content 
-O B-website-name I-website-name O O 
-O O O B-petrolPrice-datetime_date I-petrolPrice-datetime_date B-petrolPrice-city I-petrolPrice-city B-petrolPrice-company I-petrolPrice-company I-petrolPrice-company B-petrolPrice-category I-petrolPrice-category I-petrolPrice-category I-petrolPrice-category I-petrolPrice-category O O O O O O 
-O O B-weightScaler-srcUnit O B-weightScaler-srcNumber B-weightScaler-destUnit O 
-B-match-name I-match-name I-match-name I-match-name I-match-name I-match-name B-match-datetime_date I-match-datetime_date I-match-datetime_date I-match-datetime_date O O O O O O 
-O O B-stock-name I-stock-name I-stock-name I-stock-name O O 
-B-queryCapital-city I-queryCapital-city O O O O O O O B-queryCapital-province I-queryCapital-province O O O 
-O O O O O B-map-endLoc_poi I-map-endLoc_poi I-map-endLoc_poi I-map-endLoc_poi O O O O O 
-O O O O O B-video-category I-video-category 
-O B-new-country I-new-country O B-new-category I-new-category O O O O O 
-O O O B-cookbook-dishName I-cookbook-dishName O 
-O O O O O O O O O O O 
-O O O B-cookbook-ingredient O O O O 
-B-video-name I-video-name I-video-name I-video-name 
-O O O B-familyNames-wildcardWords O O O 
-B-weather-city I-weather-city B-weather-datetime_date I-weather-datetime_date O O B-weather-subfocus I-weather-subfocus I-weather-subfocus O 
-O O B-website-name I-website-name O O O O 
-B-telephone-name I-telephone-name O O O O O O O O 
-B-video-name I-video-name I-video-name O 
-O O B-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword O O O O O 
-O O O B-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword O O O O O O O O 
-O O O O O O B-poetry-author I-poetry-author O O O O O O 
-B-novel-author I-novel-author I-novel-author O B-novel-category I-novel-category O O O B-novel-name I-novel-name I-novel-name I-novel-name I-novel-name I-novel-name O 
-B-video-tag I-video-tag B-video-area I-video-area B-video-category I-video-category I-video-category B-video-name I-video-name I-video-name I-video-name I-video-name B-video-episode I-video-episode I-video-episode I-video-season O O O O I-video-episode 
-O O O B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O 
-O O B-airControl_smartHome-attr I-airControl_smartHome-attr I-airControl_smartHome-attr I-airControl_smartHome-attrValue B-airControl_smartHome-attrValue I-airControl_smartHome-attrValue O 
-O O O O O O O O O O O O O O 
-O O O O O O O 
-B-flight-startDate_date I-flight-startDate_date I-flight-startDate_date I-flight-startDate_date I-flight-startDate_date I-flight-startDate_date O B-flight-startLoc_city I-flight-startLoc_city O B-flight-endLoc_city I-flight-endLoc_city O O O 
-O O O B-map-endLoc_poi I-map-endLoc_poi I-map-endLoc_poi I-map-endLoc_poi 
-B-video-scoreDescr I-video-scoreDescr O B-video-tag I-video-tag B-video-category I-video-category 
-O O O O O O B-dream-keyword O O O O 
-O O B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O 
-B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O O O 
-O O O O B-animalCries-name I-animalCries-name O O O O O 
-O O O B-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword O O O 
-O O O O O O O O O 
-O O O O B-petrolPrice-datetime_date I-petrolPrice-datetime_date O O O O O O 
-B-translation-content O B-translation-target I-translation-target O O O O 
-O O O O B-music-category I-music-category O O O 
-O O O O O O 
-O B-video-name I-video-name 
-B-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword O O O O O O 
-O O O O B-crossTalk-category I-crossTalk-category O 
-O O B-video-name I-video-name I-video-name I-video-name I-video-name I-video-name I-video-name I-video-name 
-O O O O O B-music-artist I-music-artist I-music-artist O O O B-music-category I-music-category O O 
-O O O B-crossTalk-actor I-crossTalk-actor I-crossTalk-actor O B-crossTalk-name I-crossTalk-name I-crossTalk-name I-crossTalk-name I-crossTalk-name 
-O O B-app-name I-app-name I-app-name I-app-name 
-B-video-name I-video-name I-video-name I-video-name I-video-name I-video-name I-video-name 
-B-cityOfPro-province I-cityOfPro-city O O I-cityOfPro-province O O 
-B-health-keyword I-health-keyword I-health-keyword O O O O O 
-O O B-new-datetime_time I-new-datetime_time B-new-city I-new-city O O O O O O 
-B-video-name I-video-name I-video-name I-video-name 
-O O O O B-stroke-word I-stroke-word O O O O O O O O 
-O O O O B-tvchannel-name I-tvchannel-name I-tvchannel-name I-tvchannel-name 
-O B-tvchannel-category I-tvchannel-category O O O O O O O 
-O O O O O B-sentenceMaking-keyword I-sentenceMaking-keyword O O O O 
-O O B-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword O O O O 
-O B-train-startLoc_city I-train-startLoc_city O B-train-endLoc_city I-train-endLoc_city O O O 
-B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName 
-O B-message-name I-message-name I-message-name O O O O O B-message-receiver I-message-receiver 
-O O O O O I-cinemas-film O I-cinemas-film I-cinemas-film I-cinemas-film O O B-cinemas-category I-cinemas-category O O 
-B-weather-datetime_date I-weather-datetime_date B-weather-datetime_time I-weather-datetime_time O B-weather-subfocus O 
-O B-animalCries-name I-animalCries-name O O O 
-O O O B-carNumber-number B-carNumber-datetime_date I-carNumber-datetime_date O O O O 
-O O O O O O B-website-name I-website-name 
-O O O B-riddle-category I-riddle-category O 
-O O O O O O B-petrolPrice-datetime_date I-petrolPrice-datetime_date B-petrolPrice-company I-petrolPrice-company I-petrolPrice-company O O O O O O O O 
-B-tvchannel-name I-tvchannel-name I-tvchannel-name I-tvchannel-name O O O O 
-O O O O O B-contacts-name I-contacts-name B-contacts-code I-contacts-code I-contacts-code O I-contacts-code I-contacts-code O I-contacts-code O I-contacts-code O 
-B-video-name I-video-name I-video-name I-video-name I-video-name 
-O O B-dream-keyword I-dream-keyword O O O O O O O O O O O 
-O O O B-cityOfPro-province I-cityOfPro-province I-cityOfPro-province O O O O O O O 
-O O O O O 
-O O O O O O O O 
-B-queryCapital-province I-queryCapital-province O O O O O O 
-O O O O O O 
-O O O O B-cinemas-city I-cinemas-city B-cinemas-theatre I-cinemas-theatre I-cinemas-theatre I-cinemas-theatre O O O O O O O 
-B-cookbook-ingredient I-cookbook-ingredient O O O 
-B-flight-startDate_date I-flight-startDate_date I-flight-startDate_date I-flight-startDate_date O B-flight-startLoc_city I-flight-startLoc_city O B-flight-endLoc_city I-flight-endLoc_city O O O O O O O 
-B-translation-content I-translation-content I-translation-content I-translation-content I-translation-content I-translation-content I-translation-content O B-translation-target I-translation-target O O O 
-B-cookbook-dishName I-cookbook-dishName O O O 
-B-wordsMeaning-keyword I-wordsMeaning-keyword O O O O O 
-B-queryCapital-city I-queryCapital-city O B-queryCapital-province I-queryCapital-province O O O O O O 
-O O O O O B-petrolPrice-datetime_date I-petrolPrice-datetime_date B-petrolPrice-company I-petrolPrice-company I-petrolPrice-company O O O O O 
-B-epg-tvchannel I-epg-tvchannel I-epg-tvchannel O O O O O O 
-O O B-contacts-name I-contacts-name O O 
-B-health-keyword I-health-keyword I-health-keyword I-health-keyword I-health-keyword 
-O O O O O O O B-wordsMeaning-keyword I-wordsMeaning-keyword O O O O 
-O O O B-poetry-name I-poetry-name I-poetry-name I-poetry-name O 
-O O O O B-email-name I-email-name O O O B-email-content I-email-content I-email-content I-email-content 
-B-airControl_smartHome-datetime_time I-airControl_smartHome-datetime_time I-airControl_smartHome-datetime_time B-airControl_smartHome-attrValue I-airControl_smartHome-attrValue O O 
-O B-message-name I-message-name O O O O O O O O B-message-receiver I-message-receiver I-message-receiver I-message-receiver 
-O O O O O O B-map-endLoc_poi I-map-endLoc_poi I-map-endLoc_poi O O O 
-B-queryCapital-province I-queryCapital-province O O O O O O B-queryCapital-city I-queryCapital-city O O O O 
-O B-flight-startLoc_city I-flight-startLoc_city O B-flight-endLoc_city I-flight-endLoc_city O O O 
-O O O O B-historyToday-year I-historyToday-year I-historyToday-year I-historyToday-year O O O O O B-historyToday-datetime_date I-historyToday-datetime_date O O O O O 
-B-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel B-epg-datetime_time I-epg-datetime_time O B-epg-name I-epg-name I-epg-name I-epg-name I-epg-name O O 
-B-queryCapital-province I-queryCapital-province O O O O O 
-B-queryCapital-province I-queryCapital-province O O O O O O 
-B-carNumber-datetime_date I-carNumber-datetime_date O O O O O O O 
-B-video-name I-video-name I-video-name I-video-name I-video-name I-video-name I-video-name O I-video-name 
-B-cityOfPro-city I-cityOfPro-city O O O O O 
-O O B-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword O O O O O 
-O O O O B-stroke-word I-stroke-word O O 
-I-cinemas-film O I-cinemas-film I-cinemas-film I-cinemas-film O O O O O O O O O 
+O O O B-telephone-name I-telephone-name I-telephone-name 
+O B-message-name I-message-name I-message-name O O O O O B-message-receiver I-message-receiver I-message-receiver 
+O O I-cinemas-film O I-cinemas-film I-cinemas-film I-cinemas-film O O O O O O O 
+B-match-datetime_date I-match-datetime_date I-match-datetime_date I-match-datetime_date I-match-datetime_date B-match-category I-match-category I-match-category I-match-category I-match-category I-match-category I-match-name B-match-name I-match-name O I-match-name O O O O O 
+O O O B-poetry-author I-poetry-author I-poetry-author I-poetry-author O O O 
 O O O I-airControl_smartHome-attrValue I-airControl_smartHome-attr O O B-airControl_smartHome-attrValue O 
-O O O O B-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword O O O 
-O O O B-sentenceMaking-keyword I-sentenceMaking-keyword O O O O O 
-O O O O O O O B-contacts-name I-contacts-name B-contacts-code I-contacts-code I-contacts-code I-contacts-code O O O O O I-contacts-code I-contacts-code 
-B-animalCries-name I-animalCries-name O 
-O I-weightScaler-destUnit O O B-weightScaler-srcNumber B-weightScaler-destUnit O 
-O O B-sentenceMaking-keyword I-sentenceMaking-keyword O O O O O 
-O O O O O O B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O O O 
-O O O O O I-lottery-datetime_date I-lottery-datetime_date B-lottery-name I-lottery-datetime_date I-lottery-datetime_date O I-lottery-datetime_date I-lottery-datetime_date I-lottery-datetime_date O O O O I-lottery-name I-lottery-name O O O O O 
-O O O O O O O O O O O O O 
-B-carNumber-datetime_date I-carNumber-datetime_date I-carNumber-datetime_date B-carNumber-city I-carNumber-city O O O O O O O 
-O O 
-O O O B-new-city I-new-city O O O O 
-O O O O O O O O O 
-B-queryCapital-province I-queryCapital-province O O O O O O O B-queryCapital-city I-queryCapital-city O O O O 
-O O B-music-artist I-music-artist I-music-artist O B-music-song I-music-song 
-B-animalCries-name I-animalCries-name O O O O O O O O 
-O O O O O O B-dream-keyword I-dream-keyword O O O O 
-O O O O B-carNumber-city I-carNumber-city O B-carNumber-rule I-carNumber-rule I-carNumber-rule I-carNumber-rule 
-B-sentenceMaking-keyword I-sentenceMaking-keyword O O 
-I-email-content O O O O O O B-email-name I-email-name O O O B-email-content I-email-content I-email-content O I-email-content I-email-content I-email-content 
-O O O B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O 
-O O O O O B-airControl_smartHome-attr I-airControl_smartHome-attr I-airControl_smartHome-attr I-airControl_smartHome-attr 
-B-weather-city I-weather-city B-weather-datetime_time I-weather-datetime_time B-weather-subfocus O O O 
-O O O O O O O O O B-wordsMeaning-keyword I-wordsMeaning-keyword O O O O O O 
-O O O O B-map-endLoc_poi I-map-endLoc_poi I-map-endLoc_poi I-map-endLoc_poi I-map-endLoc_poi O O O O O O O O 
-O O O B-video-name I-video-name I-video-name B-video-category I-video-category 
-O O O O B-petrolPrice-datetime_date I-petrolPrice-datetime_date O O O O O O 
-B-train-startLoc_city I-train-startLoc_city O B-train-endLoc_city I-train-endLoc_city O O O O 
-B-music-artist I-music-artist I-music-artist O O 
-B-stock-name I-stock-name I-stock-name I-stock-name O B-stock-yesterday I-stock-yesterday O O O O O O 
+O O B-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel O O O O O O 
+O O O O O B-stroke-word I-stroke-word O O O O O O O O 
+O O O O O O O 
+O O O O B-new-datetime_date I-new-datetime_date B-new-city I-new-city O O O 
+O O O B-historyToday-year I-historyToday-year O I-historyToday-year O O O O O B-historyToday-datetime_date I-historyToday-datetime_date O O O O O 
+I-video-datetime_date I-video-datetime_date I-video-datetime_date O I-video-datetime_date O B-video-tag I-video-tag B-video-category I-video-category 
+B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O 
+B-petrolPrice-city I-petrolPrice-city B-petrolPrice-category I-petrolPrice-category B-petrolPrice-datetime_date I-petrolPrice-datetime_date O O O O O O O O O O O 
+O O O O O O B-petrolPrice-datetime_date I-petrolPrice-datetime_date B-petrolPrice-city I-petrolPrice-city O O O O O O O O 
+O O O B-poetry-author I-poetry-author I-poetry-author O O 
+O O O O O B-petrolPrice-city I-petrolPrice-city B-petrolPrice-datetime_date I-petrolPrice-datetime_date O O O O O O O O O 
+B-new-datetime_date I-new-datetime_date B-new-city I-new-city O O 
+B-website-name I-website-name I-website-name I-website-name 
+O O O O B-train-endLoc_city I-train-endLoc_city O B-train-category I-train-category 
+O O O B-crossTalk-actor I-crossTalk-actor I-crossTalk-actor O B-crossTalk-category I-crossTalk-category 
+O O O B-poetry-dynasty O O 
+B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O 
+O O B-carNumber-datetime_date I-carNumber-datetime_date I-carNumber-datetime_date O I-carNumber-datetime_date I-carNumber-datetime_date O O O O O 
+O O O O B-music-category I-music-category O O 
+B-new-country I-new-country O B-new-category I-new-category O O 
+B-match-category I-match-category O O B-match-type I-match-type O O O 
+O O O O O O B-poetry-author I-poetry-author O B-poetry-name I-poetry-name I-poetry-name O 
+O O O B-video-name I-video-name I-video-name I-video-name B-video-tag I-video-tag B-video-category I-video-category 
+O O O O B-carNumber-rule I-carNumber-rule I-carNumber-rule I-carNumber-rule 
+O B-poetry-name I-poetry-name O O O O 
+O O O O B-calendar-datetime_date I-calendar-datetime_date O O O O O O O 
+B-new-datetime_date I-new-datetime_date I-new-datetime_date O O O O O 
+O O O O B-childClassics-chapter I-childClassics-album I-childClassics-album O O O 
+O O O O B-poetry-name I-poetry-name O 
+B-crossTalk-category I-crossTalk-category B-crossTalk-name I-crossTalk-name I-crossTalk-name I-crossTalk-name I-crossTalk-name 
+O O O B-music-song I-music-song I-music-song I-music-song 
+O O O O O O O O B-carNumber-number O O B-carNumber-datetime_date I-carNumber-datetime_date O O O O 
+O O O O B-app-name I-app-name I-app-name I-app-name O O O O 
+O O O B-telephone-name I-telephone-name O O O O O O O 
+O O B-clock-日期 I-clock-日期 B-clock-时间 I-clock-时间 I-clock-时间 I-clock-时间 O O O 
+O O B-telephone-name I-telephone-name 
+B-train-startLoc_city I-train-startLoc_city I-train-startLoc_city O B-train-endLoc_city I-train-endLoc_city O O O O 
+O O O O B-poetry-author I-poetry-author I-poetry-author O O O 
+O O O B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName 
+B-cookbook-ingredient I-cookbook-ingredient I-cookbook-ingredient O O O O O O O O 
+B-cookbook-ingredient I-cookbook-ingredient O O O O 
+B-cityOfPro-city I-cityOfPro-city O O O O O 
+O O O O B-queryCapital-city I-queryCapital-city O O O O O 
+O O O O O O B-wordsMeaning-keyword I-wordsMeaning-keyword O O O 
 O B-weightScaler-srcUnit O O B-weightScaler-srcNumber B-weightScaler-destUnit I-weightScaler-destUnit 
-O O O O B-telephone-name I-telephone-name I-telephone-name 
-O O O O O I-cinemas-film O I-cinemas-film I-cinemas-film I-cinemas-film O O O O O O O 
-O O O O O O O O O O B-epg-name I-epg-name I-epg-name I-epg-name I-epg-name 
-O B-message-name I-message-name I-message-name O O O 
-B-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel B-epg-datetime_date I-epg-datetime_date O B-epg-name I-epg-name I-epg-name I-epg-name 
-B-novel-category I-novel-category O O O B-novel-name I-novel-name I-novel-name I-novel-name O 
-O O B-cookbook-ingredient I-cookbook-ingredient O O O O O 
-O O O O O B-match-category I-match-category O O O O O O O O O O O 
-B-video-name I-video-name I-video-name I-video-name I-video-name 
-B-airControl_smartHome-attrValue I-airControl_smartHome-attrValue O O 
-O O B-airControl_smartHome-attrValue I-airControl_smartHome-attrValue 
-O O O B-familyNames-wildcardWords O O O O 
+O O O O O O O B-familyNames-wildcardWords O 
+O O O O B-weightScaler-srcNumber B-weightScaler-srcUnit O O O B-weightScaler-destUnit O 
+O O O O O B-crossTalk-category I-crossTalk-category O O O 
+O O O O O B-wordsMeaning-keyword I-wordsMeaning-keyword O O O 
+O O O O B-riddle-category I-riddle-category O O 
+B-stock-name I-stock-name I-stock-name O O O O 
+O O O O O O O O 
+O O O O O O O B-sentenceMaking-keyword I-sentenceMaking-keyword O O O O 
+O O B-home-位置 I-home-位置 O O B-home-灯种 
+O O O O B-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword O O O O 
+O O O B-telephone-name I-telephone-name I-telephone-name 
+O O O O O O B-queryCapital-province I-queryCapital-province O O O O O O O O B-queryCapital-city I-queryCapital-city 
+O B-telephone-name I-telephone-name I-telephone-name O O O 
+O O O O B-email-name I-email-name O O O B-email-content I-email-content I-email-content I-email-content I-email-content I-email-content I-email-content 
+O B-website-name I-website-name I-website-name I-website-name 
+O I-telephone-name O O O O 
+O O O O O O O 
+O B-contacts-name I-contacts-name I-contacts-name I-contacts-name O O O O O O O 
+B-riddle-category I-riddle-category I-riddle-category I-riddle-category O 
+B-animalCries-name O O O O O O O 
+B-calendar-datetime_date I-calendar-datetime_date I-calendar-datetime_date I-calendar-datetime_date I-calendar-datetime_date O O O O O 
+B-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel O O O O 
+O O O O B-calendar-datetime_date I-calendar-datetime_date I-calendar-datetime_date O O O O O O O 
+O O B-stock-name I-stock-name I-stock-name I-stock-name O O O 
+O O B-tvchannel-name I-tvchannel-name I-tvchannel-name I-tvchannel-name I-tvchannel-name B-tvchannel-resolution I-tvchannel-resolution 
+O O O O O O B-email-name I-email-name O O O O B-email-content I-email-content I-email-content I-email-content I-email-content I-email-content I-email-content 
+O O O B-historyToday-year I-historyToday-year I-historyToday-year I-historyToday-year O O O O B-historyToday-datetime_date I-historyToday-datetime_date O O O O O 
+O O O O O O O 
+B-video-name I-video-name B-video-episode I-video-episode I-video-episode I-video-episode 
+B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName 
+B-video-name I-video-name I-video-name B-video-tag I-video-tag B-video-category 
+O O B-flight-startLoc_city I-flight-startLoc_city O B-flight-endLoc_city I-flight-endLoc_city O O O 
+O O B-poetry-name I-poetry-name I-poetry-name O 
+B-carNumber-datetime_date I-carNumber-datetime_date O O O O O O O 
+O O O O O B-message-name I-message-name B-message-content I-message-content I-message-content I-message-content I-message-content O I-message-content I-message-content I-message-content I-message-content I-message-content I-message-content I-message-content I-message-content I-message-content I-message-content I-message-content 
+B-home-灯种 I-home-灯种 I-home-灯种 O O O 
+B-home-位置 I-home-位置 I-home-位置 O O O O O O O O 
+O O O O B-weightScaler-srcNumber B-weightScaler-srcUnit O O B-weightScaler-destUnit 
+O O O B-music-category I-music-category O O 
+O O O O O B-music-song I-music-song O 
+O O O O O O O O O 
+B-cookbook-ingredient I-cookbook-ingredient O O O O 
+O O O B-cookbook-utensil I-cookbook-utensil O B-cookbook-ingredient I-cookbook-ingredient O 
+B-match-category I-match-category O O O 
+B-video-artist I-video-artist I-video-artist B-video-tag I-video-tag B-video-category I-video-category 
+O O B-contacts-name I-contacts-name I-contacts-name O O O 
+B-lottery-name I-lottery-name I-lottery-name O O O O O 
+O O O O O O O O O O O 
+O B-weightScaler-srcUnit I-weightScaler-srcUnit O B-weightScaler-srcNumber B-weightScaler-destUnit O 
+I-wordsMeaning-keyword O I-wordsMeaning-keyword I-wordsMeaning-keyword I-wordsMeaning-keyword I-wordsMeaning-keyword I-wordsMeaning-keyword O O O O O 
+O O B-home-灯种 I-home-灯种 I-home-灯种 
+O O B-app-name I-app-name I-app-name I-app-name 
+B-match-name I-match-name O O O O O O 
+O O O O O O O B-music-category I-music-category O O 
+B-carNumber-rule I-carNumber-rule I-carNumber-rule I-carNumber-rule 
+B-app-name I-app-name I-app-name I-app-name I-app-name 
+O B-calendar-datetime_date I-calendar-datetime_date O O O O O O O 
+O O O O B-train-endLoc_province I-train-endLoc_province B-train-endLoc_city I-train-endLoc_city I-train-endLoc_city O O O O O O B-train-startLoc_province I-train-startLoc_province I-train-startLoc_province B-train-startLoc_city I-train-startLoc_city I-train-startLoc_city O O 
+O O O O B-crossTalk-actor I-crossTalk-actor O B-crossTalk-category I-crossTalk-category 
 O B-cookbook-ingredient I-cookbook-ingredient O O O O 
-O O O B-childClassics-name I-childClassics-name I-childClassics-name 
-O O O O O O O 
-B-airControl_smartHome-attrValue I-airControl_smartHome-attrValue O O O B-airControl_smartHome-attr I-airControl_smartHome-attr I-airControl_smartHome-attr I-airControl_smartHome-attr I-airControl_smartHome-attr O O 
-B-health-keyword I-health-keyword O O O O O 
-O O O B-riddle-category I-riddle-category O O 
+B-stock-yesterday I-stock-yesterday B-stock-name I-stock-name I-stock-name I-stock-name O O O O O O O O O 
+B-weather-datetime_date I-weather-datetime_date O O O B-weather-subfocus O O O O O O 
+O O O O O B-dream-keyword I-dream-keyword O O O 
+O O O O O I-stock-code O I-stock-code O I-stock-code O O O O O O B-stock-yesterday I-stock-yesterday O O O O 
 O O O O B-familyNames-orderIndex O O O O 
-B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O 
-O O O B-flight-startDate_date I-flight-startDate_date O B-flight-startLoc_city B-flight-startDate_time I-flight-startDate_time I-flight-startDate_time I-flight-startDate_time I-flight-startDate_time I-flight-startDate_time O O I-flight-startLoc_city O O B-flight-endLoc_city O O O O O O O O 
-B-health-keyword I-health-keyword I-health-keyword I-health-keyword O 
-O O O B-novel-author I-novel-author I-novel-author O O O B-novel-name I-novel-name 
-O O O B-animalCries-name O O O O O 
-O O O O B-telephone-name I-telephone-name 
-B-poetry-author I-poetry-author I-poetry-author O O O O 
-O O O O O B-map-endLoc_province I-map-endLoc_province O 
-O O I-dream-keyword O O O O O O O O O O O O 
-O O O 
-O O O B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName 
-O O O O O B-petrolPrice-datetime_date I-petrolPrice-datetime_date B-petrolPrice-category I-petrolPrice-category I-petrolPrice-category I-petrolPrice-category I-petrolPrice-category O O O O 
-O B-animalCries-name O O 
-O O B-health-keyword I-health-keyword I-health-keyword O O O O 
-B-weather-datetime_time I-weather-datetime_time B-weather-city I-weather-city O O O B-weather-subfocus I-weather-subfocus O O O 
-B-cookbook-dishName I-cookbook-dishName O O O O 
+B-health-keyword I-health-keyword O O O O O 
 B-cityOfPro-city I-cityOfPro-city I-cityOfPro-city O O O O O 
+O O O B-dream-keyword O O O O O 
+O O O B-contacts-name I-contacts-name I-contacts-name I-contacts-name O O O 
+O O O O O B-contacts-name I-contacts-name O O O B-contacts-code I-contacts-code I-contacts-code O I-contacts-code O I-contacts-code O I-contacts-code O O 
+B-epg-datetime_date I-epg-name B-epg-datetime_time I-epg-name I-epg-datetime_time I-epg-datetime_time O O O I-epg-name O O O O O 
+B-video-area I-video-area B-video-category I-video-category B-video-name I-video-name I-video-name I-video-name 
+B-health-keyword I-health-keyword I-health-keyword I-health-keyword I-health-keyword 
+O O B-dream-keyword O O O O O 
+O O O B-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword O O 
+B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O 
+O O O B-queryCapital-province I-queryCapital-province O O 
+O O 
+B-video-name I-video-name 
+B-translation-content I-translation-content O B-translation-target I-translation-target O O O 
+B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O 
+B-carNumber-datetime_date I-carNumber-datetime_date O O O O O O O O O O 
+B-stroke-word I-stroke-word I-stroke-word I-stroke-word O O O O O 
+B-carNumber-city I-carNumber-city O O O O O O O O 
+O O O O I-app-name O I-app-name I-app-name I-app-name 
+B-airControl_smartHome-datetime_time I-airControl_smartHome-datetime_time I-airControl_smartHome-datetime_time I-airControl_smartHome-datetime_time B-airControl_smartHome-attrValue I-airControl_smartHome-attrValue O O 
+O O B-new-province I-new-province B-new-keyword I-new-keyword I-new-keyword I-new-keyword O O O 
+O O O O B-poetry-dynasty O O 
+O O B-weightScaler-srcUnit O B-weightScaler-srcNumber B-weightScaler-destUnit I-weightScaler-destUnit O 
+O O I-cinemas-film O I-cinemas-film I-cinemas-film I-cinemas-film O O O O O 
+O B-telephone-name I-telephone-name O O 
+B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O 
+O O O O B-petrolPrice-datetime_date I-petrolPrice-datetime_date B-petrolPrice-category I-petrolPrice-category I-petrolPrice-category I-petrolPrice-category I-petrolPrice-category O O O O 
+O B-train-startLoc_city I-train-startLoc_city O B-train-endLoc_city I-train-endLoc_city O O O O 
+B-video-name I-video-name I-video-name I-video-name I-video-name I-video-name I-video-name O I-video-name 
+O O B-home-位置 I-home-位置 O B-home-灯种 I-home-灯种 I-home-灯种 O 
+O O O O O O B-video-name I-video-name I-video-name I-video-name 
+O O O O O B-petrolPrice-datetime_date I-petrolPrice-datetime_date O O O O O O 
+O O O O B-poetry-author I-poetry-author O O O O 
 O O O O O O 
+B-calendar-datetime_date I-calendar-datetime_date O O O 
+O O B-stock-name I-stock-name I-stock-name I-stock-name O O O 
+B-weather-datetime_date I-weather-datetime_date B-weather-city I-weather-city O O O B-weather-subfocus I-weather-subfocus 
+B-airControl_smartHome-attrValue I-airControl_smartHome-attrValue O O 
+O O O O B-message-name I-message-name I-message-name O B-message-content I-message-content I-message-content 
+O O O O O B-carNumber-datetime_date I-carNumber-datetime_date I-carNumber-datetime_date O O O O O O O O 
+I-novel-name O O B-novel-category I-novel-category O O B-novel-name O I-novel-name I-novel-name I-novel-name I-novel-name I-novel-name I-novel-name I-novel-name I-novel-name 
+O O O O O O B-sentenceMaking-keyword I-sentenceMaking-keyword O O O O O 
+O B-animalCries-name I-animalCries-name O O O O O O O 
+O O O O B-petrolPrice-datetime_date I-petrolPrice-datetime_date O O O O O O 
+B-health-keyword I-health-keyword I-health-keyword O 
+O O O O O O O O O O O O 
+B-weightScaler-srcNumber B-weightScaler-srcUnit B-weightScaler-destUnit O O O O O O O 
+B-stock-name I-stock-name I-stock-name I-stock-name O O 
+O O O B-video-name I-video-name O 
+O O O B-animalCries-name I-animalCries-name O 
+O O O O O O O O O 
+B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O 
+B-crossTalk-actor I-crossTalk-actor I-crossTalk-actor O B-crossTalk-category I-crossTalk-category O O 
+B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName 
+O O O O O O 
+B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName B-cookbook-ingredient O O O O 
+B-map-location_province I-map-location_province I-map-location_province B-map-location_area I-map-location_area O O O 
+O B-map-endLoc_poi I-map-endLoc_poi I-map-endLoc_poi I-map-endLoc_poi O O O 
 O O O O O O O 
-B-weightScaler-srcNumber B-weightScaler-srcUnit B-weightScaler-destUnit O O O O O O O O O 
-B-video-name I-video-name I-video-name O O 
-O I-contacts-name O B-contacts-name O O O O O O O 
-O O O O O O O 
-O O O O O 
-O O O O B-wordsMeaning-keyword I-wordsMeaning-keyword O O O 
-O O O O B-poetry-dynasty O O O O O 
-O O O O O O O B-familyNames-wildcardWords O O 
-O O B-riddle-category I-riddle-category O O O O 
-O O O O O O O O O B-video-category I-video-category 
-B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O 
-O O O O O O O O O O O O O O O O O 
-O O B-riddle-category I-riddle-category O O O O O 
-B-app-name I-app-name 
-B-weather-datetime_date I-weather-datetime_date I-weather-datetime_date I-weather-datetime_date B-weather-city I-weather-city O B-weather-subfocus I-weather-subfocus O O O 
-O O O O I-cinemas-film O I-cinemas-film I-cinemas-film I-cinemas-film O O O O O O O 
-B-carNumber-datetime_date I-carNumber-datetime_date O O O O O O O O 
-O O O B-childClassics-album I-childClassics-album I-childClassics-album 
-O B-petrolPrice-company I-petrolPrice-company I-petrolPrice-company O B-petrolPrice-datetime_date I-petrolPrice-datetime_date O O O O O O 
-B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O O O 
-O O O O B-wordsMeaning-keyword I-wordsMeaning-keyword 
-O O O O O O O B-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword O O O O O O O 
-O O B-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel B-epg-datetime_date I-epg-datetime_date O O O O 
 O O O O B-childClassics-tags I-childClassics-tags 
-B-weather-datetime_date I-weather-datetime_date B-weather-city I-weather-city B-weather-subfocus O O 
-B-translation-content I-translation-content I-translation-content I-translation-content B-translation-target I-translation-target O O O 
+O O B-poetry-dynasty O O O O O 
+O O O O O O O 
+B-stock-name I-stock-name I-stock-name I-stock-name O O O O O 
+O B-message-name I-message-name I-message-name O O O 
+O O O O 
+O O O O O O O O B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O 
+O O O O B-flight-startDate_time I-flight-startDate_time I-flight-startDate_time I-flight-startDate_time O B-flight-endLoc_city I-flight-endLoc_city O O O 
+O O B-telephone-name I-telephone-name O O O 
+B-video-name I-video-name I-video-name I-video-name I-video-name I-video-name I-video-name 
+O O B-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword O O 
+O O O O O O O O O B-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword O O 
+O O O O 
+B-cityOfPro-city I-cityOfPro-city O O O O O 
+O O O O B-carNumber-city I-carNumber-city I-carNumber-city O O O B-carNumber-rule I-carNumber-rule I-carNumber-rule I-carNumber-rule 
+B-flight-startDate_date I-flight-startDate_date B-flight-startLoc_city I-flight-startLoc_city O B-flight-endLoc_city I-flight-endLoc_city O O O O 
+B-match-name O O O I-match-name O O O O O O O O O 
+B-queryCapital-city I-queryCapital-city O O O B-queryCapital-province I-queryCapital-province O O O O O O 
+B-flight-startLoc_city I-flight-startLoc_city O B-flight-endLoc_city I-flight-endLoc_city O O O 
+O O B-weather-datetime_date I-weather-datetime_date O O O B-weather-subfocus I-weather-subfocus 
+O B-flight-startLoc_city I-flight-startLoc_city O B-flight-endLoc_city I-flight-endLoc_city O O O O 
+B-video-artist I-video-artist O B-video-artistRole I-video-artistRole O O B-video-category I-video-category 
+B-video-name I-video-name I-video-name I-video-name I-video-name 
+I-epg-tvchannel O I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel O B-epg-name I-epg-name I-epg-name I-epg-name 
+O O O O B-health-keyword I-health-keyword O O O O O O O O O 
+O O B-cookbook-ingredient I-cookbook-ingredient O O O O 
+O O B-telephone-name I-telephone-name I-telephone-name O O O 
+O O O B-calendar-datetime_date I-calendar-datetime_date O O O O O 
+O B-message-name I-message-name I-message-name O O O O O B-message-receiver I-message-receiver I-message-receiver 
+O O O O B-telephone-name I-telephone-name I-telephone-name I-telephone-name 
+O O O O B-home-位置 I-home-位置 
+B-calendar-datetime_date I-calendar-datetime_date O O O O O 
+B-video-name I-video-name I-video-name I-video-name I-video-name 
+O O O B-telephone-name I-telephone-name O O O O O 
+B-weather-city I-weather-city B-weather-datetime_date I-weather-datetime_date O O O B-weather-subfocus I-weather-subfocus I-weather-subfocus O 
+O O O B-stroke-character O O O O O 
+O O O B-video-timeDescr I-video-timeDescr O B-video-name I-video-name I-video-name I-video-name 
+O O O B-crossTalk-category I-crossTalk-category O 
+O O B-stroke-word I-stroke-word O O O O O O O 
+O O O O O O B-wordsMeaning-keyword I-wordsMeaning-keyword O O O O O 
+O O O O B-airControl_smartHome-attr I-airControl_smartHome-attr 
+O B-tvchannel-resolution I-tvchannel-resolution O O 
+O O O O B-dream-keyword O O O O O 
+O O O B-crossTalk-actor I-crossTalk-actor I-crossTalk-actor O B-crossTalk-name I-crossTalk-name I-crossTalk-name 
+O O O O B-animalCries-name O O O O O O O O 
+O O O O O O B-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword O O O O O O 
+O O B-airControl_smartHome-attr I-airControl_smartHome-attr O O B-airControl_smartHome-attrValue I-airControl_smartHome-attrValue 
+B-queryCapital-province I-queryCapital-province O O O O O O O O 
+O O B-contacts-code O O O O O O O O O I-contacts-code I-contacts-code I-contacts-code I-contacts-code I-contacts-code I-contacts-code 
+O B-new-country I-new-country O B-new-keyword I-new-keyword I-new-keyword I-new-keyword I-new-keyword I-new-keyword O O 
+O O O O O O O 
+B-train-startLoc_city I-train-startLoc_city O B-train-endLoc_city I-train-endLoc_city O O O 
+O O O O O O O O 
+O O O O O B-video-name I-video-name I-video-name I-video-name 
+O O O O O B-dream-keyword O O O O O O 
+O O O O O B-home-位置 I-home-位置 O B-home-灯种 O 
+O O O B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O 
+B-historyToday-year I-historyToday-year I-historyToday-year I-historyToday-year O O O O O B-historyToday-datetime_date I-historyToday-datetime_date O O O O O O O O O O O 
+B-bus-Src I-bus-Src O B-bus-Dest I-bus-Dest O O O O O O O 
+B-app-name I-app-name I-app-name 
+B-weather-datetime_date I-weather-datetime_date B-weather-datetime_time I-weather-datetime_time B-weather-city I-weather-city I-weather-city O B-weather-subfocus I-weather-subfocus O 
+O B-riddle-category I-riddle-category O O O O 
+O O O B-music-song I-music-song O 
+O O O B-video-name I-video-name I-video-name I-video-name I-video-name 
+O O O O O O B-historyToday-datetime_date I-historyToday-datetime_date I-historyToday-datetime_date I-historyToday-datetime_date O O O O O 
+O O O B-historyToday-datetime_date I-historyToday-datetime_date I-historyToday-datetime_date I-historyToday-datetime_date O O O O O O O O O 
+O O O B-train-startLoc_city I-train-startLoc_city O B-train-endLoc_city I-train-endLoc_city B-train-startDate_date I-train-startDate_date O O O 
+O O O O O O O 
+O O O O B-train-startLoc_area I-train-startLoc_area O B-train-endLoc_city O O O O O 
+O O O O O B-historyToday-year I-historyToday-year I-historyToday-year I-historyToday-year O O B-historyToday-datetime_date I-historyToday-datetime_date O O O O O O O O O O 
+O O O O B-music-song I-music-song I-music-song I-music-song I-music-song I-music-song I-music-song O 
+B-familyNames-name O O B-familyNames-querytype I-familyNames-querytype O O O 
+O O O O O B-contacts-name I-contacts-name B-contacts-code I-contacts-code I-contacts-code I-contacts-code O O 
+O O O B-weather-datetime_date I-weather-datetime_date O B-weather-subfocus I-weather-subfocus I-weather-subfocus I-weather-subfocus 
+B-stock-name I-stock-name I-stock-name I-stock-name O O 
+O O O O O O O B-epg-name I-epg-name I-epg-name I-epg-name I-epg-name 
+O O O O O B-novel-popularity I-novel-popularity O O B-novel-name I-novel-name I-novel-name O 
+O O O O O B-app-name I-app-name I-app-name I-app-name I-app-name 
+O O O O O O O O O 
+O O O B-stroke-character O O O O O O 
+O O O B-animalCries-name O O O O O O O O O O 
+O O O O O O O O O 
+O O B-clock-时间 I-clock-时间 I-clock-时间 I-clock-时间 I-clock-时间 O O O 
+O O O O B-contacts-name I-contacts-name O O O O O 
+O B-new-city I-new-city O O 
+O O O O O O B-email-name I-email-name 
+O O O B-animalCries-name I-animalCries-name O O 
+O O B-sentenceMaking-keyword I-sentenceMaking-keyword O O O O O 
+B-health-keyword I-health-keyword 
+O O O O B-airControl_smartHome-attrValue I-airControl_smartHome-attrValue I-airControl_smartHome-attrValue 
+O O O O O O O O O 
+B-historyToday-datetime_date I-historyToday-datetime_date I-historyToday-datetime_date I-historyToday-datetime_date O O O O O O O O O O 
+B-map-location_province I-map-location_province O O O 
+B-cookbook-ingredient I-cookbook-ingredient O O O O 
+O O O O O B-new-keyword I-new-keyword I-new-keyword O O O 
+O I-dream-keyword B-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword O I-dream-keyword O O O O O 
+O O B-app-name I-app-name I-app-name I-app-name 
+O O O O B-wordsMeaning-keyword I-wordsMeaning-keyword O O O 
+B-video-name I-video-name I-video-name O O O 
+B-video-name I-video-name I-video-name I-video-name 
+B-cityOfPro-city I-cityOfPro-city O O O O O 
+B-video-category I-video-category I-video-category B-video-name I-video-name I-video-name 
+B-weightScaler-srcNumber B-weightScaler-srcUnit O O O B-weightScaler-destUnit 
+B-new-keyword I-new-keyword B-new-category I-new-category O O 
+O O O B-tvchannel-category I-tvchannel-category O O 
+B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O O 
+O O O O O O O O O O O 
+O B-message-name I-message-name I-message-name O B-message-category I-message-category O O O O O B-message-receiver I-message-receiver O 
+O O O O B-home-位置 I-home-位置 
+B-home-位置 I-home-位置 I-home-位置 I-home-位置 O O O O O O 
+B-video-area I-video-area B-video-category I-video-category B-video-name I-video-name I-video-name I-video-name 
+O O O O O O O 
+B-weightScaler-srcNumber B-weightScaler-srcUnit O O O O B-weightScaler-destUnit I-weightScaler-destUnit 
+B-crossTalk-name I-crossTalk-name I-crossTalk-name O O O O O 
+B-weather-datetime_date I-weather-datetime_date O O B-weather-subfocus I-weather-subfocus O O O 
+O O O O O O O 
+B-cityOfPro-province I-cityOfPro-province I-cityOfPro-province O O O O O O O O O B-cityOfPro-city I-cityOfPro-city 
+O O O O O O O B-airControl_smartHome-attr I-airControl_smartHome-attr 
+B-queryCapital-city I-queryCapital-city O O O B-queryCapital-province I-queryCapital-province O O O O O 
+O O O B-airControl_smartHome-attr I-airControl_smartHome-attr O O B-airControl_smartHome-attrValue I-airControl_smartHome-attrValue 
+O O O O B-message-name I-message-name I-message-name O O B-message-content I-message-content I-message-content I-message-content I-message-content 
+O O B-clock-时间 I-clock-时间 I-clock-时间 I-clock-时间 I-clock-时间 O O O 
+O O O O B-poetry-author I-poetry-author I-poetry-author O O O 
+B-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel O O O O O O 
+B-video-name I-video-name I-video-name I-video-name 
+O O O O O O O O O 
+B-queryCapital-city I-queryCapital-city O O B-queryCapital-province I-queryCapital-province O O O O 
+B-translation-content I-translation-content I-translation-content I-translation-content I-translation-content I-translation-content O O O B-translation-target I-translation-target 
+O O B-music-artist I-music-artist I-music-artist O O O B-music-song I-music-song O O O 
+O B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName 
+O O O O O B-map-location_poi I-map-location_poi I-map-location_poi I-map-location_poi O O 
+O O B-tvchannel-name I-tvchannel-name I-tvchannel-name 
+O O O O O O O 
+O O O O B-email-name I-email-name O O O B-email-content I-email-content I-email-content I-email-content 
+O O O B-animalCries-name O O O O O 
+B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O 
+B-translation-content I-translation-content O B-translation-target I-translation-target O O O 
+B-carNumber-datetime_date I-carNumber-datetime_date B-carNumber-city I-carNumber-city O O O O O O O 
+O O B-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel O O O 
+B-video-name I-video-name I-video-name 
+O O O O B-new-keyword I-new-keyword O O O O O 
+O B-music-artist I-music-artist I-music-artist O B-music-song I-music-song O 
+O O O B-flight-startDate_date I-flight-startDate_date I-flight-startDate_date I-flight-startDate_date B-flight-startDate_time I-flight-startDate_time B-flight-startLoc_city I-flight-startLoc_city O B-flight-endLoc_city I-flight-endLoc_city O O O 
+B-petrolPrice-datetime_date I-petrolPrice-datetime_date O O O O O O O O O O O O O O O 
+B-contacts-name I-contacts-name O O O O O O 
+B-translation-content O B-translation-target I-translation-target O O O 
+B-weather-city I-weather-city B-weather-datetime_date B-weather-subfocus O I-weather-subfocus O O 
+O O B-train-startLoc_city I-train-startLoc_city O B-train-endLoc_city I-train-endLoc_city O O O O 
+O O O B-dream-keyword O O O O O 
+O B-message-name I-message-name I-message-name O O O 
+B-weather-datetime_date I-weather-datetime_date O B-weather-city I-weather-city O O O B-weather-subfocus I-weather-subfocus O 
+B-queryCapital-city I-queryCapital-city O O O B-queryCapital-province I-queryCapital-province O O O 
+I-video-datetime_date I-video-datetime_date I-video-datetime_date O I-video-datetime_date B-video-name I-video-name I-video-name I-video-name I-video-name I-video-name I-video-name I-video-name I-video-name I-video-name O I-video-name 
+B-queryCapital-province I-queryCapital-province O O O O O O B-queryCapital-city I-queryCapital-city O O O O 
+O O O O O B-animalCries-name O O O O 
+O O B-cookbook-ingredient O O O O 
+B-new-city I-new-city O O 
+B-epg-datetime_time I-epg-datetime_time B-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel O O O O O O 
+B-cityOfPro-city I-cityOfPro-city O O O O O O 
+O O O O O O B-dream-keyword O O O 
+O O O O B-crossTalk-category I-crossTalk-category 
+O O O O O O O B-familyNames-wildcardWords O O O 
+O O B-dream-keyword O O O O O 
+O O B-airControl_smartHome-attrValue I-airControl_smartHome-attrValue I-airControl_smartHome-attrValue 
+O O O O O O O O O O O O O O 
+O O O B-music-song I-music-song I-music-song I-music-song I-music-song O I-music-song O O O O 
+O O O B-cityOfPro-city I-cityOfPro-city O B-cityOfPro-province I-cityOfPro-province O O 
+O O O O O B-cityOfPro-city I-cityOfPro-city O O O B-cityOfPro-province I-cityOfPro-province O 
+B-calendar-datetime_date I-calendar-datetime_date O O O O O O O 
+B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O 
+O O O O O O O B-queryCapital-city I-queryCapital-city O O O O 
+O O O O B-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel B-epg-datetime_date I-epg-datetime_date I-epg-datetime_date O O B-epg-name I-epg-name I-epg-name I-epg-name I-epg-name O 
+O O B-stock-name I-stock-name I-stock-name I-stock-name O O O 
+O O B-video-name I-video-name I-video-name 
+O O O B-poetry-author I-poetry-author O O O 
+O O O O O 
+O O O O O O O B-wordsMeaning-keyword I-wordsMeaning-keyword I-wordsMeaning-keyword I-wordsMeaning-keyword I-wordsMeaning-keyword I-wordsMeaning-keyword 
+B-petrolPrice-company I-petrolPrice-company I-petrolPrice-company O O O O O O O O O O O 
+O O O O O 
+O O B-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword O O O O O 
+O O B-translation-content I-translation-content I-translation-content I-translation-content 
+O O B-contacts-name I-contacts-name I-contacts-name O O O O 
+O O O O O O B-poetry-author I-poetry-author I-poetry-author O O O 
+B-queryCapital-province I-queryCapital-province O O O O B-queryCapital-city I-queryCapital-city O 
+O O O O O B-stock-code I-stock-code O I-stock-code I-stock-code I-stock-code O B-stock-name I-stock-name I-stock-name I-stock-name O O O 
+O B-message-name I-message-name I-message-name O O O 
+O O O O O O O O 
+O O B-translation-content I-translation-content I-translation-content I-translation-content I-translation-content 
+B-stock-name I-stock-name I-stock-name I-stock-name B-stock-yesterday I-stock-yesterday O O O 
+B-cookbook-ingredient I-cookbook-ingredient I-cookbook-ingredient O O O O 
+O O O O O O O O O O O O O O O O 
+B-epg-name I-epg-name I-epg-name I-epg-name B-epg-tvchannel I-epg-tvchannel I-epg-tvchannel O O O O 
+O B-familyNames-wildcardWords O O O O O 
+O O B-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword O O O O O O O 
+O O O O O O O O O B-train-startLoc_city I-train-startLoc_city O B-train-endLoc_city I-train-endLoc_city O O O 
+O O O B-petrolPrice-company I-petrolPrice-company I-petrolPrice-company B-petrolPrice-datetime_date I-petrolPrice-datetime_date O O O O O O O 
+B-cookbook-dishName I-cookbook-dishName O O O 
+B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O 
+O O O O O O O 
+B-cookbook-ingredient I-cookbook-ingredient O O O O O O O 
+O O O O B-telephone-name I-telephone-name 
+O O O B-music-song I-music-song I-music-song I-music-song O 
+O O O O O O O O O O O O O O O O 
+O O O O O B-wordsMeaning-keyword I-wordsMeaning-keyword O O O 
+O O O O O B-queryCapital-province I-queryCapital-province O 
+O O O O O O O O O O B-email-name I-email-name O 
+O O B-translation-content I-translation-content I-translation-content I-translation-content I-translation-content I-translation-content I-translation-content I-translation-content 
+O O O O O O O O B-dream-keyword I-dream-keyword I-dream-keyword I-dream-keyword O O O O O O 
+O O B-music-artist I-music-artist O B-music-song I-music-song O O O 
+B-stock-name I-stock-name I-stock-name I-stock-name O O O O 
+O O O O O O B-queryCapital-province I-queryCapital-province O O O O O O B-queryCapital-city I-queryCapital-city O 
+O O O O O O O B-email-name I-email-name O O O B-email-content I-email-content I-email-content I-email-content I-email-content I-email-content I-email-content 
+B-epg-datetime_date I-epg-datetime_date B-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel O O O 
+B-match-datetime_date I-match-datetime_date I-match-datetime_date I-match-datetime_date B-match-category I-match-category I-match-category I-match-category I-match-category I-match-category I-match-category I-match-category O O O O O O O O 
+O O O O O O B-radio-name I-radio-name I-radio-name I-radio-name I-radio-name I-radio-name I-radio-name I-radio-name 
+O O O O O B-flight-startDate_date I-flight-startDate_date O B-flight-endLoc_city I-flight-endLoc_city O O O 
+O O O O O O 
+O O B-music-song I-music-song I-music-song 
+O O O O O O O O O 
+O O I-epg-datetime_date I-epg-datetime_date I-epg-datetime_date O I-epg-datetime_date I-epg-tvchannel O I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel O O O B-epg-name I-epg-name I-epg-name O 
+O O O O O B-stock-name I-stock-name I-stock-name I-stock-name O O O 
+O O O O B-petrolPrice-datetime_date I-petrolPrice-datetime_date O O O O O O 
+O O O O B-map-endLoc_poi I-map-endLoc_poi I-map-endLoc_poi I-map-endLoc_poi I-map-endLoc_poi O O O O O O O O 
+O O O O O B-stroke-word I-stroke-word O O O O O O O O 
+O O O O B-stock-name I-stock-name I-stock-name I-stock-name O O O 
+B-health-keyword I-health-keyword I-health-keyword O O O O O O O 
+O O O O O O 
+B-home-位置 I-home-位置 I-home-位置 O O O O O O 
+B-home-位置 I-home-位置 I-home-位置 O B-home-灯种 O O O 
+O O O O O O O B-petrolPrice-datetime_date I-petrolPrice-datetime_date O O O O O O 
+O O B-stock-name I-stock-name I-stock-name I-stock-name B-stock-yesterday I-stock-yesterday O O O O O O O 
+B-animalCries-name I-animalCries-name O O O O O 
+B-queryCapital-province I-queryCapital-province O 
+O O O B-tvchannel-category I-tvchannel-category O O O 
+O O O O O B-match-category I-match-category O O O O O O O O O O O 
+O O O O B-childClassics-album I-childClassics-album I-childClassics-album O B-childClassics-chapter O 
+O O O O B-poetry-name I-poetry-name I-poetry-name I-poetry-name B-poetry-author I-poetry-author I-poetry-author O 
+O O B-contacts-name I-contacts-name O O O 
+B-petrolPrice-datetime_date I-petrolPrice-datetime_date O O O O O O O 
+B-cookbook-ingredient I-cookbook-ingredient I-cookbook-ingredient O O O O O 
+O B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O O 
+O O O B-video-tag I-video-tag B-video-category I-video-category 
+B-poetry-keyword I-poetry-keyword I-poetry-keyword I-poetry-keyword I-poetry-keyword B-poetry-queryField I-poetry-queryField I-poetry-queryField O O O O 
+O O O B-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword O O O O O O 
+O B-message-name I-message-name I-message-name O O O O O B-message-receiver I-message-receiver 
+O O O O O O O O O O 
+O O B-telephone-name I-telephone-name I-telephone-name 
+O O O B-video-name I-video-name I-video-name I-video-name O 
+O O B-music-song I-music-song I-music-song I-music-song O 
+O O O B-new-category I-new-category O O 
+O O O O O 
+O O B-poetry-author I-poetry-author O O O O 
+O O O B-petrolPrice-city I-petrolPrice-city B-petrolPrice-datetime_date I-petrolPrice-datetime_date O O O O O O 
+O O B-historyToday-datetime_date I-historyToday-datetime_date I-historyToday-datetime_date I-historyToday-datetime_date O O O O O O O O 
+O O B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O 
+B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O O O 
 O O B-stock-name I-stock-name I-stock-name I-stock-name O O 
-O O O O I-cinemas-film O I-cinemas-film I-cinemas-film I-cinemas-film O O O O O 
-O O O O B-stroke-word I-stroke-word O O O O O O O O 
-O O O O O O B-queryCapital-province I-queryCapital-province O O O O O O B-queryCapital-city I-queryCapital-city 
+O B-animalCries-name I-animalCries-name O O O 
+B-riddle-category I-riddle-category I-riddle-category I-riddle-category O 
+B-video-tag I-video-tag B-video-category B-video-name I-video-name O I-video-name I-video-name I-video-name 
+B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O 
+B-queryCapital-city I-queryCapital-city O B-queryCapital-province I-queryCapital-province O O O O O O O O 
+B-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword I-sentenceMaking-keyword O O O O O O 
+O B-message-name O B-message-category I-message-category O O O O B-message-receiver I-message-receiver I-message-receiver I-message-receiver I-message-receiver I-message-receiver 
+B-queryCapital-province I-queryCapital-province O O O O O O O O O 
+O O O O O I-cinemas-film O I-cinemas-film I-cinemas-film I-cinemas-film 
+O B-map-startLoc_poi I-map-startLoc_poi I-map-startLoc_poi O B-map-endLoc_city I-map-endLoc_city I-map-endLoc_city B-map-endLoc_poi I-map-endLoc_poi I-map-endLoc_poi O O O 
+B-video-name I-video-name I-video-name I-video-name 
+O O O O O B-contacts-name I-contacts-name I-contacts-code I-contacts-code O I-contacts-code I-contacts-code I-contacts-code I-contacts-code O O I-contacts-code O 
+B-weather-city I-weather-city B-weather-datetime_date I-weather-datetime_date B-weather-subfocus I-weather-subfocus O O O 
+B-cityOfPro-province I-cityOfPro-province I-cityOfPro-province O O O B-cityOfPro-city I-cityOfPro-city O O O O 
+O O B-stock-code I-stock-code I-stock-code I-stock-code I-stock-code I-stock-code O O O O O O O O 
+O O O B-poetry-author I-poetry-author I-poetry-author O B-poetry-name I-poetry-name I-poetry-name 
+O O B-map-location_province I-map-location_province O B-map-location_city I-map-location_city B-map-location_poi I-map-location_poi I-map-location_poi I-map-location_poi O O O 
+B-cityOfPro-city I-cityOfPro-city O O O O O 
+O O O O B-wordsMeaning-keyword I-wordsMeaning-keyword O O O 
+O O B-website-name I-website-name I-website-name I-website-name I-website-name I-website-name 
+O O B-sentenceMaking-keyword I-sentenceMaking-keyword O O O O O 
+O O O O O O O O O 
+O O O O B-message-name I-message-name B-message-content I-message-content I-message-content I-message-content I-message-content I-message-content 
+B-map-endLoc_poi I-map-endLoc_poi I-map-endLoc_poi I-map-endLoc_poi O O O 
+B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O 
+O O O B-animalCries-name I-animalCries-name I-animalCries-name O O O O 
+O O O B-clock-日期 I-clock-日期 I-clock-时间 O I-clock-日期 O B-clock-时间 I-clock-时间 O O I-clock-时间 O O O 
+B-lottery-relIssue I-lottery-relIssue I-lottery-relIssue B-lottery-name I-lottery-name I-lottery-name I-lottery-name I-lottery-name 
+O O O O B-queryCapital-city I-queryCapital-city O 
+B-petrolPrice-datetime_date I-petrolPrice-datetime_date B-petrolPrice-company I-petrolPrice-company I-petrolPrice-company O O O O 
+O O B-poetry-dynasty O O O O O 
+O O O O O O O 
+I-sentenceMaking-keyword O I-sentenceMaking-keyword I-sentenceMaking-keyword O O O O 
+O O O O O O O O O O O O 
+B-translation-content I-translation-content I-translation-content O B-translation-target I-translation-target O O O 
+O O B-home-位置 I-home-位置 O B-home-灯种 I-home-灯种 
+B-cinemas-film I-cinemas-film I-cinemas-film I-cinemas-film O O O O O O 
+B-tvchannel-name I-tvchannel-name I-tvchannel-name I-tvchannel-name O O O O 
+B-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-datetime_time I-epg-datetime_date I-epg-datetime_date O I-epg-datetime_date I-epg-datetime_date B-epg-datetime_time I-epg-datetime_time O I-epg-datetime_time I-epg-datetime_time O O O O O I-epg-category 
+B-health-keyword I-health-keyword I-health-keyword O O O O O 
+O B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName 
+B-crossTalk-actor I-crossTalk-actor O I-crossTalk-actor I-crossTalk-actor I-crossTalk-actor I-crossTalk-actor O B-crossTalk-category I-crossTalk-category 
+B-stroke-word I-stroke-word O O O O O O O 
+O B-weightScaler-srcUnit I-weightScaler-srcUnit O B-weightScaler-srcNumber B-weightScaler-destUnit 
+O O O O O O O O O O O O B-health-keyword I-health-keyword O 
+O B-cookbook-dishName I-cookbook-dishName I-cookbook-dishName O O O O 
+B-epg-datetime_date I-epg-datetime_date B-epg-datetime_time I-epg-datetime_time B-epg-tvchannel I-epg-tvchannel I-epg-tvchannel I-epg-tvchannel O O O B-epg-category O I-epg-category 
+O O B-riddle-category I-riddle-category O 
+O O O O O O O O O O B-airControl_smartHome-duration I-airControl_smartHome-duration I-airControl_smartHome-duration I-airControl_smartHome-duration 
+O O B-stock-name I-stock-name I-stock-name I-stock-name O O 
+O O B-airControl_smartHome-attr I-airControl_smartHome-attr I-airControl_smartHome-attr O O B-airControl_smartHome-attrValue I-airControl_smartHome-attrValue 
+B-translation-content I-translation-content I-translation-content O B-translation-target I-translation-target O O O 
+O O O O B-crossTalk-category I-crossTalk-category O 
+B-map-endLoc_province B-map-endLoc_poi B-map-endLoc_city I-map-endLoc_city B-map-endLoc_area I-map-endLoc_area I-map-endLoc_area O O I-map-endLoc_poi I-map-endLoc_poi I-map-endLoc_poi I-map-endLoc_poi O O O O 
+O O O B-sentenceMaking-keyword I-sentenceMaking-keyword O O O O 
+O O B-app-name I-app-name O O O O O 
+O O B-poetry-name I-poetry-name 
+O O O O O O O O O O O 
